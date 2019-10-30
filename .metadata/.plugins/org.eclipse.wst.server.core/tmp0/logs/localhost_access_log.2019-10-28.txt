@@ -1,0 +1,15 @@
+127.0.0.1 - - [28/Oct/2019:16:23:38 +0800] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [28/Oct/2019:16:24:17 +0800] "GET /JavaEE_web_example/HelloWorld.jsp HTTP/1.1" 200 127
+0:0:0:0:0:0:0:1 - - [28/Oct/2019:16:25:09 +0800] "GET /JavaEE_web_example/HelloWorld.jsp HTTP/1.1" 200 148
+0:0:0:0:0:0:0:1 - - [28/Oct/2019:16:25:09 +0800] "GET /favicon.ico HTTP/1.1" 404 1085
+127.0.0.1 - - [28/Oct/2019:16:27:32 +0800] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [28/Oct/2019:16:27:45 +0800] "GET /JavaEE_web_example/HelloWorld HTTP/1.1" 404 1107
+0:0:0:0:0:0:0:1 - - [28/Oct/2019:16:28:25 +0800] "GET /JavaEE_web_example/HelloServlet HTTP/1.1" 200 30
+0:0:0:0:0:0:0:1 - - [28/Oct/2019:16:52:07 +0800] "GET /JavaEE_web_example/HelloServlet HTTP/1.1" 200 30
+0:0:0:0:0:0:0:1 - - [28/Oct/2019:16:52:08 +0800] "GET /JavaEE_web_example/HelloServlet HTTP/1.1" 200 30
+127.0.0.1 - - [28/Oct/2019:17:31:26 +0800] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [28/Oct/2019:17:31:44 +0800] "GET /JavaEE_web_example/HelloServlet HTTP/1.1" 500 1847
+0:0:0:0:0:0:0:1 - - [28/Oct/2019:17:32:15 +0800] "GET /JavaEE_web_example/HelloServlet HTTP/1.1" 200 27
+37.255.216.183 - - [28/Oct/2019:17:41:09 +0800] "GET / HTTP/1.1" 404 1074
+187.57.126.116 - - [28/Oct/2019:17:53:43 +0800] "GET / HTTP/1.1" 404 1074
+109.94.117.185 - - [28/Oct/2019:23:50:50 +0800] "GET / HTTP/1.1" 404 1074
